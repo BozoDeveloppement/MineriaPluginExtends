@@ -1,1 +1,1 @@
-rootProject.name = "IridiumTeams"
+rootProject.name = "MineriaPluginExtends"
