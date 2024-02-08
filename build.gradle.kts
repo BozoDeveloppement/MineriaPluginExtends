@@ -4,9 +4,9 @@ plugins {
     id("com.github.johnrengelman.shadow") version "7.1.2"
 }
 
-group = "com.iridium"
-version = "2.3.5"
-description = "IridiumTeams"
+group = "fr.parsival"
+version = "2.0.0"
+description = "MineriaPluginExtends"
 
 repositories {
     maven("https://repo.mvdw-software.com/content/groups/public/")
