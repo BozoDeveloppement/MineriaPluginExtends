@@ -1,6 +1,6 @@
 package com.iridium.testplugin;
 
-import com.iridium.iridiumteams.database.Team;
+import fr.parsival.mineriapluginextends.database.Team;
 
 import java.time.LocalDateTime;
 

@@ -10,7 +10,7 @@ public class EnhancementUpdateEvent implements Listener {
     public static boolean called = false;
 
     @EventHandler
-    public void onEnhancementUpdate(com.iridium.iridiumteams.api.EnhancementUpdateEvent<TestTeam, User> event){
+    public void onEnhancementUpdate(fr.parsival.mineriapluginextends.api.EnhancementUpdateEvent<TestTeam, User> event){
         called = true;
     }
 

@@ -1,8 +1,8 @@
-package com.iridium.iridiumteams;
+package fr.parsival.mineriapluginextends;
 
 import be.seeseemelk.mockbukkit.ServerMock;
 import be.seeseemelk.mockbukkit.entity.PlayerMock;
-import com.iridium.iridiumteams.utils.PlayerUtils;
+import fr.parsival.mineriapluginextends.utils.PlayerUtils;
 import com.iridium.testplugin.TestPlugin;
 import com.iridium.testplugin.TestTeam;
 import com.iridium.testplugin.User;

@@ -1,6 +1,6 @@
 package com.iridium.testplugin;
 
-import com.iridium.iridiumteams.database.IridiumUser;
+import fr.parsival.mineriapluginextends.database.IridiumUser;
 
 import java.util.UUID;
 

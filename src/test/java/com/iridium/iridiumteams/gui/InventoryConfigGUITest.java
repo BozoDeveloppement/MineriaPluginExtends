@@ -1,4 +1,4 @@
-package com.iridium.iridiumteams.gui;
+package fr.parsival.mineriapluginextends.gui;
 
 import be.seeseemelk.mockbukkit.MockBukkit;
 import be.seeseemelk.mockbukkit.ServerMock;
@@ -8,8 +8,8 @@ import com.iridium.iridiumcore.Background;
 import com.iridium.iridiumcore.Item;
 import com.iridium.iridiumcore.dependencies.xseries.XMaterial;
 import com.iridium.iridiumcore.utils.StringUtils;
-import com.iridium.iridiumteams.UserBuilder;
-import com.iridium.iridiumteams.configs.inventories.InventoryConfig;
+import fr.parsival.mineriapluginextends.UserBuilder;
+import fr.parsival.mineriapluginextends.configs.inventories.InventoryConfig;
 import com.iridium.testplugin.TestPlugin;
 import org.bukkit.Material;
 import org.bukkit.event.inventory.InventoryClickEvent;

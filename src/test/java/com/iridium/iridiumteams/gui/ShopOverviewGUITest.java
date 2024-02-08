@@ -1,10 +1,10 @@
-package com.iridium.iridiumteams.gui;
+package fr.parsival.mineriapluginextends.gui;
 
 import be.seeseemelk.mockbukkit.MockBukkit;
 import be.seeseemelk.mockbukkit.ServerMock;
 import be.seeseemelk.mockbukkit.entity.PlayerMock;
 import com.google.common.collect.ImmutableMap;
-import com.iridium.iridiumteams.UserBuilder;
+import fr.parsival.mineriapluginextends.UserBuilder;
 import com.iridium.testplugin.TestPlugin;
 import com.iridium.testplugin.TestTeam;
 import com.iridium.testplugin.User;

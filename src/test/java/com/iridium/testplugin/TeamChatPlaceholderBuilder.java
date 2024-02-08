@@ -7,7 +7,7 @@ import org.bukkit.event.player.AsyncPlayerChatEvent;
 import java.util.Arrays;
 import java.util.List;
 
-public class TeamChatPlaceholderBuilder implements com.iridium.iridiumteams.TeamChatPlaceholderBuilder {
+public class TeamChatPlaceholderBuilder implements fr.parsival.mineriapluginextends.TeamChatPlaceholderBuilder {
     @Override
     public List<Placeholder> getPlaceholders(AsyncPlayerChatEvent event, Player player) {
         return Arrays.asList(

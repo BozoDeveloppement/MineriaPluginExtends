@@ -1,4 +1,4 @@
-package com.iridium.iridiumteams.sorting;
+package fr.parsival.mineriapluginextends.sorting;
 
 class TeamSortingTest {
 

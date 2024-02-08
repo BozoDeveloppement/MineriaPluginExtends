@@ -1,12 +1,12 @@
-package com.iridium.iridiumteams.bank;
+package fr.parsival.mineriapluginextends.bank;
 
 import be.seeseemelk.mockbukkit.MockBukkit;
 import be.seeseemelk.mockbukkit.ServerMock;
 import be.seeseemelk.mockbukkit.entity.PlayerMock;
-import com.iridium.iridiumteams.TeamBuilder;
-import com.iridium.iridiumteams.UserBuilder;
-import com.iridium.iridiumteams.database.TeamBank;
-import com.iridium.iridiumteams.utils.PlayerUtils;
+import fr.parsival.mineriapluginextends.TeamBuilder;
+import fr.parsival.mineriapluginextends.UserBuilder;
+import fr.parsival.mineriapluginextends.database.TeamBank;
+import fr.parsival.mineriapluginextends.utils.PlayerUtils;
 import com.iridium.testplugin.TestPlugin;
 import com.iridium.testplugin.TestTeam;
 import org.junit.jupiter.api.AfterEach;

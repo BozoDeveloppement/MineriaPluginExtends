@@ -1,6 +1,6 @@
 package com.iridium.testplugin.managers;
 
-import com.iridium.iridiumteams.managers.IridiumUserManager;
+import fr.parsival.mineriapluginextends.managers.IridiumUserManager;
 import com.iridium.testplugin.TestTeam;
 import com.iridium.testplugin.User;
 import org.bukkit.OfflinePlayer;

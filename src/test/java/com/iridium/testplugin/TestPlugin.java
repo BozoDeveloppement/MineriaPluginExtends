@@ -1,11 +1,11 @@
 package com.iridium.testplugin;
 
-import com.iridium.iridiumteams.IridiumTeams;
-import com.iridium.iridiumteams.PlaceholderBuilder;
-import com.iridium.iridiumteams.TeamChatPlaceholderBuilder;
-import com.iridium.iridiumteams.configs.*;
-import com.iridium.iridiumteams.managers.MissionManager;
-import com.iridium.iridiumteams.managers.ShopManager;
+import fr.parsival.mineriapluginextends.IridiumTeams;
+import fr.parsival.mineriapluginextends.PlaceholderBuilder;
+import fr.parsival.mineriapluginextends.TeamChatPlaceholderBuilder;
+import fr.parsival.mineriapluginextends.configs.*;
+import fr.parsival.mineriapluginextends.managers.MissionManager;
+import fr.parsival.mineriapluginextends.managers.ShopManager;
 import com.iridium.testplugin.api.EnhancementUpdateEvent;
 import com.iridium.testplugin.managers.CommandManager;
 import com.iridium.testplugin.managers.TeamManager;

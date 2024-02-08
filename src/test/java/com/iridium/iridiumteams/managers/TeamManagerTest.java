@@ -1,9 +1,9 @@
-package com.iridium.iridiumteams.managers;
+package fr.parsival.mineriapluginextends.managers;
 
 import be.seeseemelk.mockbukkit.MockBukkit;
 import be.seeseemelk.mockbukkit.ServerMock;
 import com.iridium.iridiumcore.dependencies.xseries.XMaterial;
-import com.iridium.iridiumteams.TeamBuilder;
+import fr.parsival.mineriapluginextends.TeamBuilder;
 import com.iridium.testplugin.TestPlugin;
 import com.iridium.testplugin.TestTeam;
 import org.bukkit.entity.EntityType;

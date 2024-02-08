@@ -1,9 +1,9 @@
 package com.iridium.testplugin.managers;
 
 import com.iridium.iridiumcore.dependencies.xseries.XMaterial;
-import com.iridium.iridiumteams.Rank;
-import com.iridium.iridiumteams.Setting;
-import com.iridium.iridiumteams.database.*;
+import fr.parsival.mineriapluginextends.Rank;
+import fr.parsival.mineriapluginextends.Setting;
+import fr.parsival.mineriapluginextends.database.*;
 import com.iridium.testplugin.TestPlugin;
 import com.iridium.testplugin.TestTeam;
 import com.iridium.testplugin.User;
@@ -20,7 +20,7 @@ import java.util.*;
 import java.util.concurrent.CompletableFuture;
 import java.util.stream.Collectors;
 
-public class TeamManager extends com.iridium.iridiumteams.managers.TeamManager<TestTeam, User> {
+public class TeamManager extends fr.parsival.mineriapluginextends.managers.TeamManager<TestTeam, User> {
 
     public static List<TestTeam> teams;
     public static List<TeamPermission> teamPermissions;

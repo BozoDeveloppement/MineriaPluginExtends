@@ -1,4 +1,4 @@
-package com.iridium.iridiumteams.commands;
+package fr.parsival.mineriapluginextends.commands;
 
 import be.seeseemelk.mockbukkit.MockBukkit;
 import be.seeseemelk.mockbukkit.ServerMock;

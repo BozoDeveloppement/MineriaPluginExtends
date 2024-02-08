@@ -1,7 +1,7 @@
 package com.iridium.testplugin;
 
 import com.iridium.iridiumcore.utils.Placeholder;
-import com.iridium.iridiumteams.PlaceholderBuilder;
+import fr.parsival.mineriapluginextends.PlaceholderBuilder;
 
 import java.util.List;
 import java.util.Optional;

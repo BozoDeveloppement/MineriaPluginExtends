@@ -1,9 +1,9 @@
-package com.iridium.iridiumteams;
+package fr.parsival.mineriapluginextends;
 
 import be.seeseemelk.mockbukkit.ServerMock;
 import com.iridium.iridiumcore.dependencies.xseries.XMaterial;
-import com.iridium.iridiumteams.database.TeamEnhancement;
-import com.iridium.iridiumteams.database.TeamReward;
+import fr.parsival.mineriapluginextends.database.TeamEnhancement;
+import fr.parsival.mineriapluginextends.database.TeamReward;
 import com.iridium.testplugin.TestPlugin;
 import com.iridium.testplugin.TestTeam;
 import com.iridium.testplugin.managers.TeamManager;

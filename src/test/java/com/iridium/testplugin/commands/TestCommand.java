@@ -1,7 +1,7 @@
 package com.iridium.testplugin.commands;
 
-import com.iridium.iridiumteams.IridiumTeams;
-import com.iridium.iridiumteams.commands.Command;
+import fr.parsival.mineriapluginextends.IridiumTeams;
+import fr.parsival.mineriapluginextends.commands.Command;
 import com.iridium.testplugin.TestTeam;
 import com.iridium.testplugin.User;
 import org.bukkit.command.CommandSender;

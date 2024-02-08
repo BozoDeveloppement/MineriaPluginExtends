@@ -1,13 +1,13 @@
-package com.iridium.iridiumteams.managers;
+package fr.parsival.mineriapluginextends.managers;
 
 import be.seeseemelk.mockbukkit.MockBukkit;
 import be.seeseemelk.mockbukkit.ServerMock;
 import be.seeseemelk.mockbukkit.entity.PlayerMock;
 import com.iridium.iridiumcore.utils.StringUtils;
-import com.iridium.iridiumteams.TeamBuilder;
-import com.iridium.iridiumteams.UserBuilder;
-import com.iridium.iridiumteams.database.TeamMission;
-import com.iridium.iridiumteams.missions.MissionData;
+import fr.parsival.mineriapluginextends.TeamBuilder;
+import fr.parsival.mineriapluginextends.UserBuilder;
+import fr.parsival.mineriapluginextends.database.TeamMission;
+import fr.parsival.mineriapluginextends.missions.MissionData;
 import com.iridium.testplugin.TestPlugin;
 import com.iridium.testplugin.TestTeam;
 import org.bukkit.Sound;

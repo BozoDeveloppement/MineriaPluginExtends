@@ -1,9 +1,9 @@
-package com.iridium.iridiumteams.listeners;
+package fr.parsival.mineriapluginextends.listeners;
 
 import be.seeseemelk.mockbukkit.MockBukkit;
 import be.seeseemelk.mockbukkit.ServerMock;
-import com.iridium.iridiumteams.SettingType;
-import com.iridium.iridiumteams.TeamBuilder;
+import fr.parsival.mineriapluginextends.SettingType;
+import fr.parsival.mineriapluginextends.TeamBuilder;
 import com.iridium.testplugin.TestPlugin;
 import com.iridium.testplugin.TestTeam;
 import com.iridium.testplugin.managers.TeamManager;

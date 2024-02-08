@@ -1,12 +1,12 @@
-package com.iridium.iridiumteams.commands;
+package fr.parsival.mineriapluginextends.commands;
 
 import be.seeseemelk.mockbukkit.MockBukkit;
 import be.seeseemelk.mockbukkit.ServerMock;
 import be.seeseemelk.mockbukkit.entity.PlayerMock;
 import com.iridium.iridiumcore.utils.StringUtils;
-import com.iridium.iridiumteams.UserBuilder;
-import com.iridium.iridiumteams.gui.ShopCategoryGUI;
-import com.iridium.iridiumteams.gui.ShopOverviewGUI;
+import fr.parsival.mineriapluginextends.UserBuilder;
+import fr.parsival.mineriapluginextends.gui.ShopCategoryGUI;
+import fr.parsival.mineriapluginextends.gui.ShopOverviewGUI;
 import com.iridium.testplugin.TestPlugin;
 import org.bukkit.inventory.InventoryHolder;
 import org.junit.jupiter.api.AfterEach;
